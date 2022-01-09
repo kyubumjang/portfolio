@@ -1,6 +1,12 @@
 # 개인 포트폴리오 페이지
 
-# Getting Started with Create React Appㅋ
+# creat react-app으로 생성
+
+# 사용 IDE: VSCode
+
+# 사용 언어: TypeScript
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
