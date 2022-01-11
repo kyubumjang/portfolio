@@ -1,5 +1,9 @@
-# lawrence_Jang
+# Kyubum_Jang(lawrence_Jang)
 
-## 개인 포트폴리오 페이지
+# 개인 포트폴리오 페이지
 
-# Comment
+# creat react-app으로 생성
+
+# 사용 IDE: VSCode
+
+# 사용 언어: TypeScript
