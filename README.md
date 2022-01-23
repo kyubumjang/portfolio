@@ -15,3 +15,5 @@
 - DB는 MongoDB 사용하여 구성
 
 - react-blog 진행 후에 개인 포트폴리오 구성 예정
+
+- ably externship으로 인해 진행 못함
